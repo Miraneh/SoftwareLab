@@ -42,6 +42,8 @@
 
 <img width="600" alt="3" src="https://user-images.githubusercontent.com/45355352/205283177-714eed23-6160-47c0-adab-b7b3ee3c740f.png">
 
+کد این بخش در پوشه با نام Rectangle همراه با فایل‌های تستش قرار داده‌شده‌است.
+
 ۴- کدی که در مرحله‌ی قبلی نوشته‌شد، از اصول SOLID پیروی نمی‌کرد بنابراین باید در آن تغییراتی می‌دادیم:
 
 - اصل Single responsibility principle (SRP): این اصل بطور کلی در کد ما برقرار است و می‌بینیم که هر دو کلاس مربع و مستطیل فقط یک Actor دارند و تنها از طریق کلاس main می‌توان در آن تغییر ایجاد کرد.
@@ -56,10 +58,7 @@
 <img width="600" alt="5" src="https://user-images.githubusercontent.com/45355352/205327961-eeeb54c3-964a-4510-ba97-4cebff969bf3.png">
 <img width="600" alt="6" src="https://user-images.githubusercontent.com/45355352/205332103-0667c557-7fb1-4ca1-8de8-845419cf4efa.png">
 
-
-**مراحل تست برنامه** 
-
-
+کد این بخش در پوشه با نام RectangleFinal همراه با فایل‌های تستش قرار داده‌شده‌است.
 
 **سوالات دستورکار**
 
