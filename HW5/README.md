@@ -3,11 +3,42 @@
 
 **شرح آزمایش**
 
-۱- پیاده‌سازی الگوی Abstarct Factory
+-پیاده‌سازی الگوی Abstarct Factory
 
-۲- پیاده‌سازی الگوی Prototype
+سناریوی این بخش را به ترتیب زیر پیاده‌ می‌کنیم:
 
-۳- پیاده‌سازی الگوی Builder
+۱- تعریف اینترفیس AbstractTree و AbstactFlower
+
+<img width="681" alt="Screen Shot 1401-09-17 at 20 13 16" src="https://user-images.githubusercontent.com/45355352/206511934-e7205a17-a433-479b-99c1-ea472b3886f5.png">
+<img width="681" alt="Screen Shot 1401-09-17 at 20 13 12" src="https://user-images.githubusercontent.com/45355352/206511947-199b4547-e7f0-45fc-81ac-7444c14e72d1.png">
+
+۲- تعریف کلاس‌های Chenar و Azalea (درختان ایرانی و ژاپنی) و کلاس‌های Khatmi و Sakura (گل‌های ایرانی و ژاپنی) که اینترفیس‌های قبلی را پیاده‌سازی می‌کنند (بخاطر شباهت کلاس‌ها تنها عکس یکی از هر دسته قرار داده‌شده‌است)  
+
+<img width="681" alt="Screen Shot 1401-09-17 at 20 12 11" src="https://user-images.githubusercontent.com/45355352/206511738-9de586de-beb6-4b94-af93-63e33b38fadd.png">
+<img width="681" alt="Screen Shot 1401-09-17 at 20 12 37" src="https://user-images.githubusercontent.com/45355352/206511772-19da0962-5f18-4513-bc41-0f72378f1c86.png">
+
+
+۳- تعریف اینترفیس AbstractGardenCreator
+
+<img width="681" alt="Screen Shot 1401-09-17 at 20 32 52" src="https://user-images.githubusercontent.com/45355352/206549240-22b2909f-4b87-422c-9ebc-0b27145f2705.png">
+
+۴- تعریف کلاس‌های iranianGardenCreator و JapaneseGardenCreator
+
+<img width="681" alt="Screen Shot 1401-09-17 at 23 04 08" src="https://user-images.githubusercontent.com/45355352/206550519-fd5cf77e-ef74-4026-b74d-fa10ed517180.png">
+<img width="681" alt="Screen Shot 1401-09-17 at 23 04 11" src="https://user-images.githubusercontent.com/45355352/206550531-660cb172-6539-499a-b554-296c3465741a.png">
+
+۵- تعریف کلاس client
+
+<img width="681" alt="Screen Shot 1401-09-17 at 23 05 01" src="https://user-images.githubusercontent.com/45355352/206550689-cfa4cb05-a9e2-4619-bc17-2816b526fb96.png">
+
+۶- تعریف کلاس demo برای امتحان کردن کارکرد درست کدها
+
+<img width="681" alt="Screen Shot 1401-09-17 at 23 10 38" src="https://user-images.githubusercontent.com/45355352/206551761-d82e5206-623e-41f7-9183-0cdc90a3653c.png">
+
+
+-پیاده‌سازی الگوی Prototype
+
+-پیاده‌سازی الگوی Builder
 
 **پرسش‌ها**
 
