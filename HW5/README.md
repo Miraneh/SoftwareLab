@@ -38,6 +38,24 @@
 
 -*پیاده‌سازی الگوی Prototype*
 
+برای پیاده‌سازی این بخش از https://www.tutorialspoint.com/design_pattern/prototype_pattern.htm کمک گرفتیم. سناریو به این صورت است که کاربر می‌خواهد سه نوع مختلف ماده (جامد، مایع و گاز) داشته باشد:
+
+۱- تعریف کلاس Matter که اینترفیس Clonable را پیاده می‌کند چون می‌خواهیم که بعد از دفعه‌ی اول ساختن شی، باقی دفعات از کپی یا کلون آن استفاده کنیم.
+
+<img width="681" alt="Screen Shot 1401-09-18 at 09 28 09" src="https://user-images.githubusercontent.com/45355352/206634674-7767eacd-124b-418b-a44f-d63093a7107b.png">
+
+۲- پیاده‌سازی کلاس‌های جامد (Solid)، مایع(liquid) و گاز(gas) (به علت شباهت کدها تنها یکی را قرار دادیم)
+
+<img width="681" alt="Screen Shot 1401-09-18 at 09 31 48" src="https://user-images.githubusercontent.com/45355352/206635354-ff9bc525-a77d-4905-8a14-ec5abcc88266.png">
+
+۳- تعریف کلاس MatterStorage برای ذخیره کردن مواد
+
+<img width="681" alt="Screen Shot 1401-09-18 at 09 39 08" src="https://user-images.githubusercontent.com/45355352/206636220-6d4bf3f3-1997-441f-ba85-529e6c616363.png">
+
+۴- تعریف کلاس  demo برای امتحان کردن کارکرد درست کدها
+
+<img width="681" alt="Screen Shot 1401-09-18 at 09 43 30" src="https://user-images.githubusercontent.com/45355352/206636905-6b73b866-03d9-4d92-b409-e0139668b700.png">
+
 -*پیاده‌سازی الگوی Builder*
 
 برای این بخش سناریویی که ما درنظر گرفتیم این است که کاربر می‌خواهد دو نوع لباس مختلف (تی‌شرت و کت) تولید کند. با کمک از مثالی که در ویدئوی آموزشی حل شد، الگو را پیاده می‌کنیم:
