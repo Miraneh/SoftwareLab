@@ -15,9 +15,8 @@
 
 ۲- تعریف کلاس‌های Chenar و Azalea (درختان ایرانی و ژاپنی) و کلاس‌های Khatmi و Sakura (گل‌های ایرانی و ژاپنی) که اینترفیس‌های قبلی را پیاده‌سازی می‌کنند (بخاطر شباهت کلاس‌ها تنها عکس یکی از هر دسته قرار داده‌شده‌است)  
 
-<img width="681" alt="Screen Shot 1401-09-17 at 20 12 11" src="https://user-images.githubusercontent.com/45355352/206511738-9de586de-beb6-4b94-af93-63e33b38fadd.png">
-<img width="681" alt="Screen Shot 1401-09-17 at 20 12 37" src="https://user-images.githubusercontent.com/45355352/206511772-19da0962-5f18-4513-bc41-0f72378f1c86.png">
-
+<img width="681" alt="Screen Shot 1401-09-18 at 22 42 11" src="https://user-images.githubusercontent.com/45355352/206779651-f813548f-972a-443d-a0f8-6ad84e1141bb.png">
+<img width="681" alt="Screen Shot 1401-09-18 at 22 42 18" src="https://user-images.githubusercontent.com/45355352/206779667-f70f22f7-a88f-4057-a5df-40f02c2d4035.png">
 
 ۳- تعریف اینترفیس AbstractGardenCreator
 
@@ -49,7 +48,7 @@
 
 ۲- پیاده‌سازی کلاس‌های جامد (Solid)، مایع(liquid) و گاز(gas) (به علت شباهت کدها تنها یکی را قرار دادیم)
 
-<img width="681" alt="Screen Shot 1401-09-18 at 09 31 48" src="https://user-images.githubusercontent.com/45355352/206635354-ff9bc525-a77d-4905-8a14-ec5abcc88266.png">
+![Uploading Screen Shot 1401-09-18 at 22.44.00.png…]()
 
 ۳- تعریف کلاس MatterStorage برای ذخیره کردن مواد
 
