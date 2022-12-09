@@ -48,7 +48,7 @@
 
 ۲- پیاده‌سازی کلاس‌های جامد (Solid)، مایع(liquid) و گاز(gas) (به علت شباهت کدها تنها یکی را قرار دادیم)
 
-![Uploading Screen Shot 1401-09-18 at 22.44.00.png…]()
+<img width="681" alt="Screen Shot 1401-09-18 at 22 44 00" src="https://user-images.githubusercontent.com/45355352/206780436-87247581-09fb-4bb7-b133-70e5c32fe798.png">
 
 ۳- تعریف کلاس MatterStorage برای ذخیره کردن مواد
 
