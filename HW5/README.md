@@ -70,6 +70,8 @@
 <img width="681" alt="Screen Shot 1401-09-17 at 23 58 44" src="https://user-images.githubusercontent.com/45355352/206560993-40d3645c-fcbe-4833-91f8-10c0508731aa.png">
 
 
+
+
 ۲- ساختن اینترفیس Builder. این اینترفیس سه متد را دربرمی‌گیرد که به ترتیب برای مشخص کردن نوع لباس، رنگ لباس و سایز لباس به کار می‌روند.
 
 <img width="681" alt="Screen Shot 1401-09-18 at 00 00 45" src="https://user-images.githubusercontent.com/45355352/206561326-39d73e70-1fbe-47e1-b294-20c6b356d49b.png">
@@ -94,6 +96,44 @@
 ۷- تعریف کلاس Client برای امتحان کردن کارکرد درست کدها
 
 <img width="681" alt="Screen Shot 1401-09-18 at 00 19 14" src="https://user-images.githubusercontent.com/45355352/206564611-d1d21f93-a0f0-44d4-b1f8-84482d2cf1dc.png">
+
+**تست‌ها**
+
+-*تست‌های AbstractFactory*
+
+![image](https://user-images.githubusercontent.com/56794518/206783556-f5fc9c42-32f0-4a17-85db-79fec8a60431.png)
+
+![image](https://user-images.githubusercontent.com/56794518/206783609-743219f5-fc4c-4b3f-bfa9-839ef460379c.png)
+
+اجرا:
+
+![image](https://user-images.githubusercontent.com/56794518/206784212-2e1488dd-2507-42fc-9c9f-014b3eab6ae5.png)
+
+![image](https://user-images.githubusercontent.com/56794518/206784266-21ec7ad2-8766-4435-b7dc-ebbc481e49dd.png)
+
+
+-*تست‌های Builder*
+
+![image](https://user-images.githubusercontent.com/56794518/206783826-3b62adb2-de9a-43fd-b194-91ea6cff3028.png)
+
+![image](https://user-images.githubusercontent.com/56794518/206783909-50ecfc0f-f417-4786-9dd1-aa588c6b9c33.png)
+
+اجرا:
+
+![image](https://user-images.githubusercontent.com/56794518/206784419-e751cc7d-a47b-40bd-8cef-97e854fa49ad.png)
+
+![image](https://user-images.githubusercontent.com/56794518/206784347-cfb86e5e-d989-4202-a487-9b9f2a702448.png)
+
+
+-*تست‌های Prototype*
+
+![image](https://user-images.githubusercontent.com/56794518/206784108-580ee6d7-22a4-4e9c-aac1-ec1a416cd0f4.png)
+
+اجرا:
+
+![image](https://user-images.githubusercontent.com/56794518/206784484-d2bd9d4a-7541-424f-851a-7a09caffafdc.png)
+
+در ابتدا هنگامی که تست‌ها را نوشتیم، چون هنوز کدی زده نشده بود با اجرای آن به خطای کامپایل می‌خوردیم. پس از نوشتن کد مخصوص هر قسمت و سپس اجرا کردن تست‌ها، توانستیم کد را بر اساس تست‌های اولیه‌مان ارزیابی کنیم.
 
 
 **پرسش‌ها**
